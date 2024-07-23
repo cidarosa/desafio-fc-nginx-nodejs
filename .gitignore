@@ -1,8 +1,4 @@
-node_modules
-volume
 mysql
-coverage
-.scannerwork
-.history
-dist
+!node/.docker/mysql
+
 

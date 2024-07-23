@@ -1,0 +1,19 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "## 🐋 Módulo Docker ### Instruções",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cidarosa/desafio-fc-nginx-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cidarosa/desafio-fc-nginx-nodejs/issues"
+  },
+  "homepage": "https://github.com/cidarosa/desafio-fc-nginx-nodejs#readme"
+}
